@@ -11,7 +11,7 @@
 - 🎨 Frontend specialist
 - 📱 Mobile dev explorer
 - ⚙️ Backend veteran
-- 🧪 Past experiments: PHP, Python, C, C++, C#, Solidity  
+- 🧪 Past experiments: PHP, Python, C, C++, C#, Solidity, Game development  
 - 🌍 Always curious, always building — from websites to mobile apps 
 
 ---
