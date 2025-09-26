@@ -1,6 +1,6 @@
 # Hi, I’m Rachid 👋
 
-💻 Frontend Engineer @scaleway 
+💻 Frontend Engineer @scaleway  
 📱 Mobile enthusiast (iOS, Android, Flutter)  
 🎓 [EFREI Paris](https://www.efrei.fr/) alumni  
 
