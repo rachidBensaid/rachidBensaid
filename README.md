@@ -17,11 +17,11 @@
 ---
 
 ## 📱 Projects & Apps
-- **[Mualim – Master the Quran](http://mualim-app.com/)** (📱 Android + iOS)  
-  👉 more than 20k+ downloads, helping people learn & memorize the Quran  
+- **[Mualim – Master the Quran](http://mualim-app.com/)** *(Kotlin · Swift)*  
+  20,000+ downloads — a native Android & iOS app for learning and memorizing the Quran
 
-- **[Pro des prophètes](https://play.google.com/store/apps/details?id=fr.prodesprophetes.quizz_prophete)**  
-  A quiz game about the stories of the prophets (+50k downloads) (Flutter)  
+- **[Pro des Prophètes](https://play.google.com/store/apps/details?id=fr.prodesprophetes.quizz_prophete)** *(Flutter)*  
+  50,000+ downloads — a quiz game about the stories of the prophets in Islamic tradition
 
 - **Cardigo (EDF Hackathon 2018 winner)**  
   Gamified donation app (Ionic)  
