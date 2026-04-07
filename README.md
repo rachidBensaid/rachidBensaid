@@ -21,7 +21,7 @@
   👉 more than 20k+ downloads, helping people learn & memorize the Quran  
 
 - **[Pro des prophètes](https://play.google.com/store/apps/details?id=fr.prodesprophetes.quizz_prophete)**  
-  A quiz game about the stories of the prophets (Flutter)  
+  A quiz game about the stories of the prophets (+50k downloads) (Flutter)  
 
 - **Cardigo (EDF Hackathon 2018 winner)**  
   Gamified donation app (Ionic)  
